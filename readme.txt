@@ -4,4 +4,6 @@ Git is free software GPL.
 
 Git has a index.
 
-Git tracks changes
+Git tracks changes.
+
+Git OK.
