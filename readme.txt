@@ -6,4 +6,4 @@ Git has a index.
 
 Git tracks changes.
 
-Git OK.
+Git Yep.
